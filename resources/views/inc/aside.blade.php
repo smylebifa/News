@@ -1,7 +1,7 @@
 @section('aside')
 
     <div class="aside">
-        <h4>Side panel</h4>
-        <p>It's just side panel</p>
+        <h4>Sidebar</h4>
+        <p>It's just sidebar</p>
         @show
     </div>
